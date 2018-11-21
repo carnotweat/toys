@@ -4,6 +4,6 @@ One is not exposed to these by using ls a million times (although that may get o
 the way one operates, which however does not get one a paycheck and even kill the existing ones ....
 Nontheless
 Later: More commentory and versions, porting to different languages, which interest me and extrapolating it to nested dirs and illustrate recursion.
-Next toy problem : Using functors for threading.
+Next toy problem : Using functors for threading, used for multiplexing of downloading .
 P.S. A blog post on how industry hirarchies and impacted modularization, packaging of knowledge and it's practise .
 P.P.S. : A [counter argument](https://unix.stackexchange.com/a/129120) 
